@@ -1,0 +1,94 @@
+.full-wraper{
+    width: 100%;
+    clear: both;
+}
+a{
+   text-decoration: none; 
+}
+h1{
+color: white;
+}
+p{
+    color: rgb(18, 17, 17);
+    font-size: 15px;
+}
+.wraper{
+    width: 1100px;
+    margin :0 auto 
+}
+
+.menu{
+    float : left;
+    width: 960;
+    text-align: right;
+   
+}
+
+  
+.logo img{
+    float : left;
+    width: 140px;
+    padding: 10px 0;
+    
+}
+marquee{
+background-color: darkblue;
+
+}
+.menu a{
+color : #000;
+padding: 15px;
+font-size: 24px;
+}
+.banner-img{
+    background-image: url(img-2.jpg);
+    background-position: centre;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding : 150px 0;
+}
+.banner-text h1,p{
+color: silver;
+text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.service-items{
+    border-radius:10 px;
+    width: 350px;
+    float:left;
+    text-align: center;
+    margin-top: 20px;
+   
+    padding-top: 20px;
+    border-style:groove;
+   
+}
+.service-items1{
+    border-radius:10 px;
+    width: 350px;
+    float:left;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 4px;
+    padding-top: 20px;
+    border-style:groove;
+}
+.service-items2{
+    border-radius:10 px;
+    width: 350px;
+    float:left;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 4px;
+    padding-top: 20px;
+    border-style:groove;
+}
+.front2{
+    color:black ;
+}
+.front3{
+    color: black;
+}
